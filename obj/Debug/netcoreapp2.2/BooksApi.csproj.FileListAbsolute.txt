@@ -1,0 +1,14 @@
+/home/ikteru/DotNetCoreApiTraining/BooksApi/bin/Debug/netcoreapp2.2/BooksApi.deps.json
+/home/ikteru/DotNetCoreApiTraining/BooksApi/bin/Debug/netcoreapp2.2/BooksApi.runtimeconfig.json
+/home/ikteru/DotNetCoreApiTraining/BooksApi/bin/Debug/netcoreapp2.2/BooksApi.runtimeconfig.dev.json
+/home/ikteru/DotNetCoreApiTraining/BooksApi/bin/Debug/netcoreapp2.2/BooksApi.dll
+/home/ikteru/DotNetCoreApiTraining/BooksApi/bin/Debug/netcoreapp2.2/BooksApi.pdb
+/home/ikteru/DotNetCoreApiTraining/BooksApi/obj/Debug/netcoreapp2.2/BooksApi.csprojAssemblyReference.cache
+/home/ikteru/DotNetCoreApiTraining/BooksApi/obj/Debug/netcoreapp2.2/BooksApi.csproj.CoreCompileInputs.cache
+/home/ikteru/DotNetCoreApiTraining/BooksApi/obj/Debug/netcoreapp2.2/BooksApi.RazorAssemblyInfo.cache
+/home/ikteru/DotNetCoreApiTraining/BooksApi/obj/Debug/netcoreapp2.2/BooksApi.RazorAssemblyInfo.cs
+/home/ikteru/DotNetCoreApiTraining/BooksApi/obj/Debug/netcoreapp2.2/BooksApi.AssemblyInfoInputs.cache
+/home/ikteru/DotNetCoreApiTraining/BooksApi/obj/Debug/netcoreapp2.2/BooksApi.AssemblyInfo.cs
+/home/ikteru/DotNetCoreApiTraining/BooksApi/obj/Debug/netcoreapp2.2/BooksApi.RazorTargetAssemblyInfo.cache
+/home/ikteru/DotNetCoreApiTraining/BooksApi/obj/Debug/netcoreapp2.2/BooksApi.dll
+/home/ikteru/DotNetCoreApiTraining/BooksApi/obj/Debug/netcoreapp2.2/BooksApi.pdb
